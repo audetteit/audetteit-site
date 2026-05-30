@@ -14,7 +14,7 @@ A professional, enterprise-style landing page for Audette IT, featuring a dark t
 
 ## deployment Instructions (GitHub Pages)
 
-1. **Initialize Git Repository**:
+1. **Initialize Git Repository**: 
    Open a terminal in the `audette-it` folder and run:
    ```bash
    git init
