@@ -9,7 +9,6 @@ A professional, enterprise-style landing page for Audette IT, featuring a dark t
   /assets        # Images and resources
   index.html     # Main landing page
   style.css      # Custom styles (Dark theme, responsive)
-  README.md      # This file
 ```
 
 ## Customization
